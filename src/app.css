@@ -1,0 +1,14 @@
+.person {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.person img {
+  border-radius: 90%;
+  width: 90px;
+  margin-right: 1rem;
+}
+body {
+  background-color: pink;
+}
